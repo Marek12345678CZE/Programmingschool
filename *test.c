@@ -13,4 +13,4 @@ int main(int argc, char** argv) {
 	printf("Jak se vojak jmenuje?");
 	scanf("%s", a.jmeno);
 	printf("%s: H: %d%% A: %d\n", a.jmeno, a.zdravi, a.munice);	
-}
+}.................
